@@ -1,0 +1,1 @@
+# Word-Lookup-and-Plagiarism-Detector
