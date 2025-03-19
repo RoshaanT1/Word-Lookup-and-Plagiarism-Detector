@@ -25,7 +25,7 @@ The **Word Lookup and Plagiarism Detector** is a C++ project developed using Qt 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/RoshaanH/Word-Lookup-and-Plagiarism-Detector.git
+   git clone https://github.com/RoshaanT1/Word-Lookup-and-Plagiarism-Detector.git
    cd word-lookup-plagiarism-detector
    ```
    
